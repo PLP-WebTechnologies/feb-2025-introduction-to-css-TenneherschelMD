@@ -1,0 +1,180 @@
+body{
+    background-image: url(list.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    border: 2px solid;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    font-size: 40px;
+    text-align: center;
+    background: tomato;
+
+    float: left;
+
+    font-family: "gotham rounded", "consolas", "sans-serif";
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+#box1{
+    border: 5px solid;
+    width: 1500px;
+    height: 200px;
+    font-family: "consolas", "sans-serif";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 22px;
+    background: aquamarine;
+
+    padding: 50px;
+    margin: 50px;
+
+}
+
+#box2{
+    border: 5px solid;
+    width: 1500px;
+    height: 200px;
+    font-family: "consolas", "sans-serif";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 22px;
+    background: aqua;
+
+    padding: 50px;
+    margin: 50px;
+
+}
+
+h1{
+    color:purple;
+    background:linear-gradient(to left, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "gotham rounded", "consolas", "sans-serif";
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-left-color: silver;
+
+    }
+h2{
+    color:red;
+    background:linear-gradient(to left, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Times New Roman", "Times", "serif";
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-left-color: silver;
+
+}
+
+h3{
+    color:purple;
+    background:linear-gradient(tto left, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "gotham rounded", "Times New Roman", "Times", "serif";
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-left-color: silver;
+
+}
+
+h4{
+    color:purple;
+    background:linear-gradient(to right, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Times New Roman", "Times", "serif";
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-left-color: silver;
+
+}
+
+p{
+    color: blue;
+    font-family: "consolas", "sans-serif";
+    font-style: italic;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.odd{
+    color: black;
+    background:linear-gradient(to left, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "gotham rounded", "consolas", "sans-serif";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan dotted underline;
+    font-size: 18px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: purple;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#pre2{
+    background-color:whitesmoke; color:blue; border: 2px solid;
+    font-family: "gotham rounded", "consolas", "sans-serif";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan dotted underline;
+    font-size: 18px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: purple;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.even{
+    background-color:whitesmoke; color:black; border: 4px solid;
+    font-family: "gotham rounded", "consolas", "sans-serif";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: purple dotted underline;
+    font-size: 18px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: purple;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+#pre4{
+    background-color:whitesmoke; color:maroon; border: 2px solid;
+    font-family: "gotham rounded", "consolas", "sans-serif";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: purple dotted underline;
+    font-size: 18px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: purple;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
